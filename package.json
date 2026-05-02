@@ -1,0 +1,6 @@
+{
+  "name": "skillbinder-video-creator",
+  "version": "1.0.0",
+  "description": "SkillBinder Video Creator — powered by Higgsfield AI",
+  "engines": { "node": ">=18" }
+}
