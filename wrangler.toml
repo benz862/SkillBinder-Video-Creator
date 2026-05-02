@@ -1,0 +1,9 @@
+name = "skillbinder-video-creator"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# Add your secrets via:
+# wrangler secret put HIGGSFIELD_KEY_ID
+# wrangler secret put HIGGSFIELD_KEY_SECRET
